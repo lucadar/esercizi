@@ -1,0 +1,5 @@
+# Lista di comandi da ricordare
+git init  # per creare un nuovo repository
+ls        # per avere l'elenco dei file in una cartella
+cd        # per cambiare directory
+git status #per verificare lo stato dei file del repository
