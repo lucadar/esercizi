@@ -3,3 +3,6 @@ git init  # per creare un nuovo repository
 ls        # per avere l'elenco dei file in una cartella
 cd        # per cambiare directory
 git status #per verificare lo stato dei file del repository
+git log    #per vedere lo storico dei log nel repository
+git add .  # per fare la commit di tutti i file non ancora inseriti in modifica
+git add <nomefile.ext> #alternativo al comando precedente per aggiungere un solo file
